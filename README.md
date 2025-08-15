@@ -1,5 +1,6 @@
 <img src="docs/images/banner.png"  />
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/468af095477348da81b1024bc73dcb7a)](https://app.codacy.com/gh/MIKTHATGUY/WallWhale?utm_source=github.com&utm_medium=referral&utm_content=MIKTHATGUY/WallWhale&utm_campaign=Badge_Grade)
 [![GitHub Stars](https://img.shields.io/github/stars/MIKTHATGUY/WallWhale?style=social)](https://github.com/MIKTHATGUY/WallWhale) [![Issues](https://img.shields.io/github/issues/MIKTHATGUY/WallWhale)](https://github.com/MIKTHATGUY/WallWhale/issues) [![License](https://img.shields.io/github/license/MIKTHATGUY/WallWhale)](LICENSE) [![Node Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
 
 [![Docker](https://img.shields.io/badge/docker-ready-blue?logo=docker)](https://hub.docker.com) [![TypeScript](https://img.shields.io/badge/typescript-5.9-blue?logo=typescript)](https://typescriptlang.org) [![Fastify](https://img.shields.io/badge/fastify-5.5-green?logo=fastify)](https://fastify.io) [![Prisma](https://img.shields.io/badge/prisma-6.14-purple?logo=prisma)](https://prisma.io)
